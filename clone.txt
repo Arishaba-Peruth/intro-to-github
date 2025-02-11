@@ -1,0 +1,7 @@
+git clone <repository-url>
+
+git clone <repository-url> <folder-name>
+
+clone a repository into a specific folder
+
+git commit -m "Initial commit"
